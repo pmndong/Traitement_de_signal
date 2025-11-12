@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environnements / IDE
+.venv/
+venv/
+.vscode/
+
+# Données volumineuses (à adapter)
+data/
+*.wav
+*.mp3
+*.zip
