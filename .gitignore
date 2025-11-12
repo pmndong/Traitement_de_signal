@@ -8,7 +8,7 @@ __pycache__/
 venv/
 .vscode/
 
-# Données volumineuses (à adapter)
+# Données volumineuses (adapte si besoin)
 data/
 *.wav
 *.mp3
